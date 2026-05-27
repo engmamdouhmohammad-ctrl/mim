@@ -10,4 +10,4 @@ User data is not sold to third parties.
 The app may store local financial records created by the user.
 
 If you have any questions, contact:
-youremail@example.com
+eng.mamdouh.mohammad@gmail.com
